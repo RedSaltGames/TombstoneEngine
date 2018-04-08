@@ -1,4 +1,4 @@
-# The Unofficial Tombstone Engine web corner
+# The Unofficial Tombstone Engine Website
 
 Welcome the Red Salt Games Tombstone engine site where you can find examples, tutorials, hints and tips about the Tombstone games engine. We plan to regularly update this website as we generate interesting content regarding creating games with Tombstone.
 
